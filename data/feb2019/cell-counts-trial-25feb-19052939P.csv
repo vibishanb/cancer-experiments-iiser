@@ -1,0 +1,360 @@
+﻿Operation,Plate Number,Barcode,Plate Repeat,Well ID,Row,Column,Well Repeat,Sample Type,Time [ms],Position X,Position Y,Excitation Wavelength [nm],Emission Wavelength [nm],Channel,TRF Window,AnalysisParameter,Signal,Result,Reference [fm],Signal - Ref,File name
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A01,1,1,1,Undefined,7999,,,,,Channel 2,,,,,,,190225-172258.37-c4-0101.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A02,1,2,1,Undefined,9629,,,,,Channel 2,,,,,,,190225-172300.01-c4-0102.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A03,1,3,1,Undefined,11259,,,,,Channel 2,,,,,,,190225-172301.64-c4-0103.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A04,1,4,1,Undefined,12975,,,,,Channel 2,,,,,,,190225-172303.35-c4-0104.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A05,1,5,1,Undefined,14625,,,,,Channel 2,,,,,,,190225-172305.01-c4-0105.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A06,1,6,1,Undefined,16247,,,,,Channel 2,,,,,,,190225-172306.63-c4-0106.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B06,2,6,1,Undefined,18031,,,,,Channel 2,,,,,,,190225-172308.41-c4-0206.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B05,2,5,1,Undefined,19654,,,,,Channel 2,,,,,,,190225-172310.03-c4-0205.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B04,2,4,1,Undefined,21268,,,,,Channel 2,,,,,,,190225-172311.64-c4-0204.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B03,2,3,1,Undefined,22958,,,,,Channel 2,,,,,,,190225-172313.34-c4-0203.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B02,2,2,1,Undefined,24586,,,,,Channel 2,,,,,,,190225-172314.97-c4-0202.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B01,2,1,1,Undefined,26212,,,,,Channel 2,,,,,,,190225-172316.60-c4-0201.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C01,3,1,1,Undefined,27945,,,,,Channel 2,,,,,,,190225-172318.32-c4-0301.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C02,3,2,1,Undefined,29579,,,,,Channel 2,,,,,,,190225-172319.96-c4-0302.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C03,3,3,1,Undefined,31259,,,,,Channel 2,,,,,,,190225-172321.63-c4-0303.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C04,3,4,1,Undefined,32903,,,,,Channel 2,,,,,,,190225-172323.28-c4-0304.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C05,3,5,1,Undefined,34623,,,,,Channel 2,,,,,,,190225-172325.00-c4-0305.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C06,3,6,1,Undefined,36249,,,,,Channel 2,,,,,,,190225-172326.63-c4-0306.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D06,4,6,1,Undefined,37968,,,,,Channel 2,,,,,,,190225-172328.35-c4-0406.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D05,4,5,1,Undefined,39623,,,,,Channel 2,,,,,,,190225-172330.01-c4-0405.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D04,4,4,1,Undefined,41244,,,,,Channel 2,,,,,,,190225-172331.62-c4-0404.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D03,4,3,1,Undefined,42898,,,,,Channel 2,,,,,,,190225-172333.28-c4-0403.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D02,4,2,1,Undefined,44525,,,,,Channel 2,,,,,,,190225-172334.90-c4-0402.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D01,4,1,1,Undefined,46203,,,,,Channel 2,,,,,,,190225-172336.59-c4-0401.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E01,5,1,1,Undefined,47922,,,,,Channel 2,,,,,,,190225-172338.30-c4-0501.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E02,5,2,1,Undefined,49558,,,,,Channel 2,,,,,,,190225-172339.94-c4-0502.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E03,5,3,1,Undefined,51195,,,,,Channel 2,,,,,,,190225-172341.58-c4-0503.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E04,5,4,1,Undefined,52825,,,,,Channel 2,,,,,,,190225-172343.21-c4-0504.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E05,5,5,1,Undefined,54532,,,,,Channel 2,,,,,,,190225-172344.91-c4-0505.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E06,5,6,1,Undefined,56162,,,,,Channel 2,,,,,,,190225-172346.54-c4-0506.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F06,6,6,1,Undefined,57899,,,,,Channel 2,,,,,,,190225-172348.27-c4-0606.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F05,6,5,1,Undefined,59523,,,,,Channel 2,,,,,,,190225-172349.90-c4-0605.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F04,6,4,1,Undefined,61145,,,,,Channel 2,,,,,,,190225-172351.53-c4-0604.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F03,6,3,1,Undefined,62811,,,,,Channel 2,,,,,,,190225-172353.19-c4-0603.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F02,6,2,1,Undefined,64477,,,,,Channel 2,,,,,,,190225-172354.86-c4-0602.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F01,6,1,1,Undefined,66120,,,,,Channel 2,,,,,,,190225-172356.50-c4-0601.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G01,7,1,1,Undefined,67839,,,,,Channel 2,,,,,,,190225-172358.21-c4-0701.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G02,7,2,1,Undefined,69516,,,,,Channel 2,,,,,,,190225-172359.90-c4-0702.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G03,7,3,1,Undefined,71134,,,,,Channel 2,,,,,,,190225-172401.51-c4-0703.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G04,7,4,1,Undefined,72844,,,,,Channel 2,,,,,,,190225-172403.22-c4-0704.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G05,7,5,1,Undefined,74469,,,,,Channel 2,,,,,,,190225-172404.85-c4-0705.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G06,7,6,1,Undefined,76079,,,,,Channel 2,,,,,,,190225-172406.46-c4-0706.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H06,8,6,1,Undefined,77820,,,,,Channel 2,,,,,,,190225-172408.20-c4-0806.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H05,8,5,1,Undefined,79476,,,,,Channel 2,,,,,,,190225-172409.86-c4-0805.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H04,8,4,1,Undefined,81117,,,,,Channel 2,,,,,,,190225-172411.50-c4-0804.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H03,8,3,1,Undefined,82774,,,,,Channel 2,,,,,,,190225-172413.16-c4-0803.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H02,8,2,1,Undefined,84424,,,,,Channel 2,,,,,,,190225-172414.80-c4-0802.tiff
+IMG,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H01,8,1,1,Undefined,86106,,,,,Channel 2,,,,,,,190225-172416.49-c4-0801.tiff
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A01,1,1,1,Undefined,-1,,,,,,,Number of Objects,46
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A01,1,1,1,Undefined,-1,,,,,,,Number of Solitary Objects,6
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A01,1,1,1,Undefined,-1,,,,,,,Median Area [µm²],776.822
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A01,1,1,1,Undefined,-1,,,,,,,Median Intensity,609.8
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A01,1,1,1,Undefined,-1,,,,,,,Confluency [%],0.180781
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A02,1,2,1,Undefined,-1,,,,,,,Number of Objects,1483
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A02,1,2,1,Undefined,-1,,,,,,,Number of Solitary Objects,964
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A02,1,2,1,Undefined,-1,,,,,,,Median Area [µm²],997.272
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A02,1,2,1,Undefined,-1,,,,,,,Median Intensity,298.322
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A02,1,2,1,Undefined,-1,,,,,,,Confluency [%],8.68066
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A04,1,4,1,Undefined,-1,,,,,,,Number of Objects,4034
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A04,1,4,1,Undefined,-1,,,,,,,Number of Solitary Objects,2067
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A04,1,4,1,Undefined,-1,,,,,,,Median Area [µm²],514.382
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A04,1,4,1,Undefined,-1,,,,,,,Median Intensity,602.173
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A04,1,4,1,Undefined,-1,,,,,,,Confluency [%],83.0506
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A03,1,3,1,Undefined,-1,,,,,,,Number of Objects,649
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A03,1,3,1,Undefined,-1,,,,,,,Number of Solitary Objects,458
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A03,1,3,1,Undefined,-1,,,,,,,Median Area [µm²],902.794
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A03,1,3,1,Undefined,-1,,,,,,,Median Intensity,447.19
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A03,1,3,1,Undefined,-1,,,,,,,Confluency [%],3.45473
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A05,1,5,1,Undefined,-1,,,,,,,Number of Objects,4676
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A05,1,5,1,Undefined,-1,,,,,,,Number of Solitary Objects,2525
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A05,1,5,1,Undefined,-1,,,,,,,Median Area [µm²],482.89
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A05,1,5,1,Undefined,-1,,,,,,,Median Intensity,559.031
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A05,1,5,1,Undefined,-1,,,,,,,Confluency [%],84.0167
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A06,1,6,1,Undefined,-1,,,,,,,Number of Objects,3695
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A06,1,6,1,Undefined,-1,,,,,,,Number of Solitary Objects,1741
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A06,1,6,1,Undefined,-1,,,,,,,Median Area [µm²],619.358
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A06,1,6,1,Undefined,-1,,,,,,,Median Intensity,657.297
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,A06,1,6,1,Undefined,-1,,,,,,,Confluency [%],85.3778
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B06,2,6,1,Undefined,-1,,,,,,,Number of Objects,23748
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B06,2,6,1,Undefined,-1,,,,,,,Number of Solitary Objects,13634
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B06,2,6,1,Undefined,-1,,,,,,,Median Area [µm²],482.89
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B06,2,6,1,Undefined,-1,,,,,,,Median Intensity,429.589
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B06,2,6,1,Undefined,-1,,,,,,,Confluency [%],66.2458
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B05,2,5,1,Undefined,-1,,,,,,,Number of Objects,24771
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B05,2,5,1,Undefined,-1,,,,,,,Number of Solitary Objects,14153
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B05,2,5,1,Undefined,-1,,,,,,,Median Area [µm²],514.382
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B05,2,5,1,Undefined,-1,,,,,,,Median Intensity,428.86
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B05,2,5,1,Undefined,-1,,,,,,,Confluency [%],73.682
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B04,2,4,1,Undefined,-1,,,,,,,Number of Objects,26441
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B04,2,4,1,Undefined,-1,,,,,,,Number of Solitary Objects,14945
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B04,2,4,1,Undefined,-1,,,,,,,Median Area [µm²],472.392
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B04,2,4,1,Undefined,-1,,,,,,,Median Intensity,447.152
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B04,2,4,1,Undefined,-1,,,,,,,Confluency [%],72.2675
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B03,2,3,1,Undefined,-1,,,,,,,Number of Objects,532
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B03,2,3,1,Undefined,-1,,,,,,,Number of Solitary Objects,304
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B03,2,3,1,Undefined,-1,,,,,,,Median Area [µm²],1753.1
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B03,2,3,1,Undefined,-1,,,,,,,Median Intensity,460.687
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B03,2,3,1,Undefined,-1,,,,,,,Confluency [%],5.46223
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B02,2,2,1,Undefined,-1,,,,,,,Number of Objects,2856
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B02,2,2,1,Undefined,-1,,,,,,,Number of Solitary Objects,1710
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B02,2,2,1,Undefined,-1,,,,,,,Median Area [µm²],892.296
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B02,2,2,1,Undefined,-1,,,,,,,Median Intensity,430.874
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B02,2,2,1,Undefined,-1,,,,,,,Confluency [%],14.8236
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B01,2,1,1,Undefined,-1,,,,,,,Number of Objects,88
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B01,2,1,1,Undefined,-1,,,,,,,Number of Solitary Objects,9
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B01,2,1,1,Undefined,-1,,,,,,,Median Area [µm²],587.866
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B01,2,1,1,Undefined,-1,,,,,,,Median Intensity,557.417
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,B01,2,1,1,Undefined,-1,,,,,,,Confluency [%],0.315506
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C01,3,1,1,Undefined,-1,,,,,,,Number of Objects,27
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C01,3,1,1,Undefined,-1,,,,,,,Number of Solitary Objects,12
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C01,3,1,1,Undefined,-1,,,,,,,Median Area [µm²],577.368
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C01,3,1,1,Undefined,-1,,,,,,,Median Intensity,678.069
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C01,3,1,1,Undefined,-1,,,,,,,Confluency [%],0.0839426
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C02,3,2,1,Undefined,-1,,,,,,,Number of Objects,115
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C02,3,2,1,Undefined,-1,,,,,,,Number of Solitary Objects,20
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C02,3,2,1,Undefined,-1,,,,,,,Median Area [µm²],818.813
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C02,3,2,1,Undefined,-1,,,,,,,Median Intensity,570.828
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C02,3,2,1,Undefined,-1,,,,,,,Confluency [%],0.493585
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C03,3,3,1,Undefined,-1,,,,,,,Number of Objects,5293
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C03,3,3,1,Undefined,-1,,,,,,,Number of Solitary Objects,2813
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C03,3,3,1,Undefined,-1,,,,,,,Median Area [µm²],871.301
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C03,3,3,1,Undefined,-1,,,,,,,Median Intensity,440.315
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C03,3,3,1,Undefined,-1,,,,,,,Confluency [%],26.8888
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C04,3,4,1,Undefined,-1,,,,,,,Number of Objects,10493
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C04,3,4,1,Undefined,-1,,,,,,,Number of Solitary Objects,8007
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C04,3,4,1,Undefined,-1,,,,,,,Median Area [µm²],671.846
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C04,3,4,1,Undefined,-1,,,,,,,Median Intensity,406.453
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C04,3,4,1,Undefined,-1,,,,,,,Confluency [%],40.9079
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C05,3,5,1,Undefined,-1,,,,,,,Number of Objects,7052
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C05,3,5,1,Undefined,-1,,,,,,,Number of Solitary Objects,5757
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C05,3,5,1,Undefined,-1,,,,,,,Median Area [µm²],629.856
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C05,3,5,1,Undefined,-1,,,,,,,Median Intensity,367.119
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C05,3,5,1,Undefined,-1,,,,,,,Confluency [%],25.9345
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C06,3,6,1,Undefined,-1,,,,,,,Number of Objects,5107
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C06,3,6,1,Undefined,-1,,,,,,,Number of Solitary Objects,4229
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C06,3,6,1,Undefined,-1,,,,,,,Median Area [µm²],629.856
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C06,3,6,1,Undefined,-1,,,,,,,Median Intensity,421.018
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,C06,3,6,1,Undefined,-1,,,,,,,Confluency [%],18.7127
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D06,4,6,1,Undefined,-1,,,,,,,Number of Objects,2103
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D06,4,6,1,Undefined,-1,,,,,,,Number of Solitary Objects,983
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D06,4,6,1,Undefined,-1,,,,,,,Median Area [µm²],619.358
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D06,4,6,1,Undefined,-1,,,,,,,Median Intensity,258.167
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D06,4,6,1,Undefined,-1,,,,,,,Confluency [%],7.74323
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D05,4,5,1,Undefined,-1,,,,,,,Number of Objects,1055
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D05,4,5,1,Undefined,-1,,,,,,,Number of Solitary Objects,985
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D05,4,5,1,Undefined,-1,,,,,,,Median Area [µm²],629.856
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D05,4,5,1,Undefined,-1,,,,,,,Median Intensity,351.3
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D05,4,5,1,Undefined,-1,,,,,,,Confluency [%],3.88193
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D04,4,4,1,Undefined,-1,,,,,,,Number of Objects,2201
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D04,4,4,1,Undefined,-1,,,,,,,Number of Solitary Objects,1970
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D04,4,4,1,Undefined,-1,,,,,,,Median Area [µm²],598.363
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D04,4,4,1,Undefined,-1,,,,,,,Median Intensity,343.982
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D04,4,4,1,Undefined,-1,,,,,,,Confluency [%],7.75908
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D03,4,3,1,Undefined,-1,,,,,,,Number of Objects,158
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D03,4,3,1,Undefined,-1,,,,,,,Number of Solitary Objects,90
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D03,4,3,1,Undefined,-1,,,,,,,Median Area [µm²],2351.46
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D03,4,3,1,Undefined,-1,,,,,,,Median Intensity,348.393
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D03,4,3,1,Undefined,-1,,,,,,,Confluency [%],2.09273
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D02,4,2,1,Undefined,-1,,,,,,,Number of Objects,2139
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D02,4,2,1,Undefined,-1,,,,,,,Number of Solitary Objects,1311
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D02,4,2,1,Undefined,-1,,,,,,,Median Area [µm²],871.301
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D02,4,2,1,Undefined,-1,,,,,,,Median Intensity,428.4
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D02,4,2,1,Undefined,-1,,,,,,,Confluency [%],10.8347
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D01,4,1,1,Undefined,-1,,,,,,,Number of Objects,1203
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D01,4,1,1,Undefined,-1,,,,,,,Number of Solitary Objects,666
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D01,4,1,1,Undefined,-1,,,,,,,Median Area [µm²],1144.24
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D01,4,1,1,Undefined,-1,,,,,,,Median Intensity,337.387
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,D01,4,1,1,Undefined,-1,,,,,,,Confluency [%],13.0163
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E01,5,1,1,Undefined,-1,,,,,,,Number of Objects,237
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E01,5,1,1,Undefined,-1,,,,,,,Number of Solitary Objects,173
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E01,5,1,1,Undefined,-1,,,,,,,Median Area [µm²],797.818
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E01,5,1,1,Undefined,-1,,,,,,,Median Intensity,415.069
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E01,5,1,1,Undefined,-1,,,,,,,Confluency [%],1.09709
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E02,5,2,1,Undefined,-1,,,,,,,Number of Objects,13121
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E02,5,2,1,Undefined,-1,,,,,,,Number of Solitary Objects,7443
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E02,5,2,1,Undefined,-1,,,,,,,Median Area [µm²],619.358
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E02,5,2,1,Undefined,-1,,,,,,,Median Intensity,426.487
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E02,5,2,1,Undefined,-1,,,,,,,Confluency [%],47.323
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E03,5,3,1,Undefined,-1,,,,,,,Number of Objects,215
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E03,5,3,1,Undefined,-1,,,,,,,Number of Solitary Objects,120
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E03,5,3,1,Undefined,-1,,,,,,,Median Area [µm²],1648.12
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E03,5,3,1,Undefined,-1,,,,,,,Median Intensity,591.357
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E03,5,3,1,Undefined,-1,,,,,,,Confluency [%],3.22931
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E04,5,4,1,Undefined,-1,,,,,,,Number of Objects,533
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E04,5,4,1,Undefined,-1,,,,,,,Number of Solitary Objects,398
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E04,5,4,1,Undefined,-1,,,,,,,Median Area [µm²],587.866
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E04,5,4,1,Undefined,-1,,,,,,,Median Intensity,327.663
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E04,5,4,1,Undefined,-1,,,,,,,Confluency [%],1.87081
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E05,5,5,1,Undefined,-1,,,,,,,Number of Objects,170
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E05,5,5,1,Undefined,-1,,,,,,,Number of Solitary Objects,110
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E05,5,5,1,Undefined,-1,,,,,,,Median Area [µm²],661.349
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E05,5,5,1,Undefined,-1,,,,,,,Median Intensity,408.087
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E05,5,5,1,Undefined,-1,,,,,,,Confluency [%],0.672831
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E06,5,6,1,Undefined,-1,,,,,,,Number of Objects,182
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E06,5,6,1,Undefined,-1,,,,,,,Number of Solitary Objects,154
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E06,5,6,1,Undefined,-1,,,,,,,Median Area [µm²],577.368
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E06,5,6,1,Undefined,-1,,,,,,,Median Intensity,266.424
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,E06,5,6,1,Undefined,-1,,,,,,,Confluency [%],0.626592
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F06,6,6,1,Undefined,-1,,,,,,,Number of Objects,54
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F06,6,6,1,Undefined,-1,,,,,,,Number of Solitary Objects,23
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F06,6,6,1,Undefined,-1,,,,,,,Median Area [µm²],577.368
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F06,6,6,1,Undefined,-1,,,,,,,Median Intensity,359.688
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F06,6,6,1,Undefined,-1,,,,,,,Confluency [%],0.18643
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F05,6,5,1,Undefined,-1,,,,,,,Number of Objects,77
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F05,6,5,1,Undefined,-1,,,,,,,Number of Solitary Objects,40
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F05,6,5,1,Undefined,-1,,,,,,,Median Area [µm²],608.861
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F05,6,5,1,Undefined,-1,,,,,,,Median Intensity,285.046
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F05,6,5,1,Undefined,-1,,,,,,,Confluency [%],0.277864
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F04,6,4,1,Undefined,-1,,,,,,,Number of Objects,104
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F04,6,4,1,Undefined,-1,,,,,,,Number of Solitary Objects,45
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F04,6,4,1,Undefined,-1,,,,,,,Median Area [µm²],640.354
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F04,6,4,1,Undefined,-1,,,,,,,Median Intensity,396.697
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F04,6,4,1,Undefined,-1,,,,,,,Confluency [%],0.394291
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F03,6,3,1,Undefined,-1,,,,,,,Number of Objects,490
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F03,6,3,1,Undefined,-1,,,,,,,Number of Solitary Objects,286
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F03,6,3,1,Undefined,-1,,,,,,,Median Area [µm²],2613.9
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F03,6,3,1,Undefined,-1,,,,,,,Median Intensity,627.509
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F03,6,3,1,Undefined,-1,,,,,,,Confluency [%],7.44529
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F02,6,2,1,Undefined,-1,,,,,,,Number of Objects,53
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F02,6,2,1,Undefined,-1,,,,,,,Number of Solitary Objects,25
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F02,6,2,1,Undefined,-1,,,,,,,Median Area [µm²],755.827
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F02,6,2,1,Undefined,-1,,,,,,,Median Intensity,487.347
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F02,6,2,1,Undefined,-1,,,,,,,Confluency [%],0.376334
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F01,6,1,1,Undefined,-1,,,,,,,Number of Objects,174
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F01,6,1,1,Undefined,-1,,,,,,,Number of Solitary Objects,8
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F01,6,1,1,Undefined,-1,,,,,,,Median Area [µm²],608.861
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F01,6,1,1,Undefined,-1,,,,,,,Median Intensity,730.205
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,F01,6,1,1,Undefined,-1,,,,,,,Confluency [%],0.577958
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G01,7,1,1,Undefined,-1,,,,,,,Number of Objects,16
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G01,7,1,1,Undefined,-1,,,,,,,Number of Solitary Objects,9
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G01,7,1,1,Undefined,-1,,,,,,,Median Area [µm²],692.842
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G01,7,1,1,Undefined,-1,,,,,,,Median Intensity,508.286
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G01,7,1,1,Undefined,-1,,,,,,,Confluency [%],0.0659505
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G02,7,2,1,Undefined,-1,,,,,,,Number of Objects,8553
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G02,7,2,1,Undefined,-1,,,,,,,Number of Solitary Objects,5005
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G02,7,2,1,Undefined,-1,,,,,,,Median Area [µm²],745.33
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G02,7,2,1,Undefined,-1,,,,,,,Median Intensity,424.855
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G02,7,2,1,Undefined,-1,,,,,,,Confluency [%],36.761
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G03,7,3,1,Undefined,-1,,,,,,,Number of Objects,733
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G03,7,3,1,Undefined,-1,,,,,,,Number of Solitary Objects,376
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G03,7,3,1,Undefined,-1,,,,,,,Median Area [µm²],2173
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G03,7,3,1,Undefined,-1,,,,,,,Median Intensity,571.768
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G03,7,3,1,Undefined,-1,,,,,,,Confluency [%],9.19163
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G04,7,4,1,Undefined,-1,,,,,,,Number of Objects,413
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G04,7,4,1,Undefined,-1,,,,,,,Number of Solitary Objects,148
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G04,7,4,1,Undefined,-1,,,,,,,Median Area [µm²],598.363
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G04,7,4,1,Undefined,-1,,,,,,,Median Intensity,248.344
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G04,7,4,1,Undefined,-1,,,,,,,Confluency [%],1.46559
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G05,7,5,1,Undefined,-1,,,,,,,Number of Objects,25
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G05,7,5,1,Undefined,-1,,,,,,,Number of Solitary Objects,12
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G05,7,5,1,Undefined,-1,,,,,,,Median Area [µm²],577.368
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G05,7,5,1,Undefined,-1,,,,,,,Median Intensity,440.771
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G05,7,5,1,Undefined,-1,,,,,,,Confluency [%],0.0835128
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G06,7,6,1,Undefined,-1,,,,,,,Number of Objects,149
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G06,7,6,1,Undefined,-1,,,,,,,Number of Solitary Objects,54
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G06,7,6,1,Undefined,-1,,,,,,,Median Area [µm²],1018.27
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G06,7,6,1,Undefined,-1,,,,,,,Median Intensity,417.038
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,G06,7,6,1,Undefined,-1,,,,,,,Confluency [%],0.856252
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H06,8,6,1,Undefined,-1,,,,,,,Number of Objects,156
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H06,8,6,1,Undefined,-1,,,,,,,Number of Solitary Objects,18
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H06,8,6,1,Undefined,-1,,,,,,,Median Area [µm²],566.87
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H06,8,6,1,Undefined,-1,,,,,,,Median Intensity,652.463
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H06,8,6,1,Undefined,-1,,,,,,,Confluency [%],0.515569
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H05,8,5,1,Undefined,-1,,,,,,,Number of Objects,10446
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H05,8,5,1,Undefined,-1,,,,,,,Number of Solitary Objects,5433
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H05,8,5,1,Undefined,-1,,,,,,,Median Area [µm²],692.842
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H05,8,5,1,Undefined,-1,,,,,,,Median Intensity,339.087
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H05,8,5,1,Undefined,-1,,,,,,,Confluency [%],41.4831
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H04,8,4,1,Undefined,-1,,,,,,,Number of Objects,10526
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H04,8,4,1,Undefined,-1,,,,,,,Number of Solitary Objects,6376
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H04,8,4,1,Undefined,-1,,,,,,,Median Area [µm²],671.846
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H04,8,4,1,Undefined,-1,,,,,,,Median Intensity,232.099
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H04,8,4,1,Undefined,-1,,,,,,,Confluency [%],40.795
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H03,8,3,1,Undefined,-1,,,,,,,Number of Objects,1055
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H03,8,3,1,Undefined,-1,,,,,,,Number of Solitary Objects,598
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H03,8,3,1,Undefined,-1,,,,,,,Median Area [µm²],1795.09
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H03,8,3,1,Undefined,-1,,,,,,,Median Intensity,649.28
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H03,8,3,1,Undefined,-1,,,,,,,Confluency [%],11.0366
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H02,8,2,1,Undefined,-1,,,,,,,Number of Objects,9049
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H02,8,2,1,Undefined,-1,,,,,,,Number of Solitary Objects,5620
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H02,8,2,1,Undefined,-1,,,,,,,Median Area [µm²],713.837
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H02,8,2,1,Undefined,-1,,,,,,,Median Intensity,333.522
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H02,8,2,1,Undefined,-1,,,,,,,Confluency [%],37.9114
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H01,8,1,1,Undefined,-1,,,,,,,Number of Objects,10437
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H01,8,1,1,Undefined,-1,,,,,,,Number of Solitary Objects,6491
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H01,8,1,1,Undefined,-1,,,,,,,Median Area [µm²],682.344
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H01,8,1,1,Undefined,-1,,,,,,,Median Intensity,412.709
+Count cells,1,V_BC_2/25/2019 5:22:50 PM_Instr:1409231,0,H01,8,1,1,Undefined,-1,,,,,,,Confluency [%],41.7704
+
+
+
+Screen Basic Information
+Software version:,,1.0
+Screen Started:,,2019-02-25T17:22:50.0950853+05:30
+Screen Finished:,,2019-02-25T17:24:22.8783922+05:30
+instrument Serial Number:,,1409231
+Protocol ID:,,7
+
+Protocol Owner:,,EnSight-PC\Admin
+Protocol Name:,,Cell Counting
+
+Number of plate repeats,,1
+Start plate repeat each [s],,0
+
+Plate Type
+Plate Type Name:,,96 CellCarrier
+Number of rows:,,8
+Number of columns:,,12
+Plate Height [mm]:,,14.4
+Bottom Height [mm]:,,3.3000000000000002
+Bottom thickness [mm]:,,0.19
+Well diameter (bottom) [mm]:,,6.58
+Well shape:,,Round
+Volume of the well [µl]:,,300
+
+Optical index:,,1.58
+Platemap
+Plate
+,1,2,3,4,5,6,7,8,9,10,11,12
+A,-,-,-,-,-,-,,,,,,
+B,-,-,-,-,-,-,,,,,,
+C,-,-,-,-,-,-,,,,,,
+D,-,-,-,-,-,-,,,,,,
+E,-,-,-,-,-,-,,,,,,
+F,-,-,-,-,-,-,,,,,,
+G,-,-,-,-,-,-,,,,,,
+H,-,-,-,-,-,-,,,,,,
+
+
+
+
+
+Operations:
+
+
+Measurements:
+
+Meas,,,,
+Tech,,,,IMG
+Filter Set,,,,PRIMARY                         
+Focus Height [µm],,,,500
+Channel,,,,Channel 2
+Excitation [%],,,,0
+Light Source,,,,BRIGHTFIELD                     
+Digital phase contrast,,,,true
+Time [ms],,,,30
+
+Analysis:
+
+Name,,,,Count cells
+Source,,,,IMG
+Channel (nucleus stain),,,,Channel 2
+Minimum nucleus area [µm²],,,,100
+
+
+Comments:
+TimeStamp,AuthenticationType,CreatorID,Type,ProtocolID,ProtocolVersion,ScreenID,Text,
+2019-02-25T17:22:50.057,Windows,EnSight-PC\Admin,Notification,7,6,1,Screen was started
+
